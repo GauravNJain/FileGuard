@@ -1,10 +1,14 @@
-# 🔐 File Hash Checker
+<p align="center">
+  <img src="imgs/FileGuardASCII.png" alt="File Hash Checker Logo" width="875">
+</p>
+
+# 🔐 FileGuard - File Hash Checker
 
 A simple shell script tool to **generate file hashes** and **verify file integrity**.
 
 ---
 
-## 📌 About
+### 📌 About
 
 **File Hash Checker** is a lightweight and easy-to-use tool that allows users to:  
 
@@ -13,7 +17,7 @@ A simple shell script tool to **generate file hashes** and **verify file integri
 
 ---
 
-## 🚀 Features  
+### 🚀 Features  
 
 📜 **Menu-based interface** for easy navigation.  
 🔄 **Supports multiple hashing algorithms**: MD5, SHA1, SHA256.  
@@ -21,3 +25,47 @@ A simple shell script tool to **generate file hashes** and **verify file integri
 
 ---
 
+### 🛠 Installation  
+
+Clone the repository and give the script execution permissions:  
+
+```
+git clone https://github.com/GauravNJain/FileGuard.git
+cd FileGuard
+chmod +x flieguard.sh
+```
+
+---
+
+### 🏃 Usage
+
+Run the script:
+```
+./fileguard.sh
+```
+Follow the menu options to generate hashes or verify file integrity.
+
+---
+
+### 🖼️ Screenshots
+
+Here are some screenshots of the tool in action:
+
+🔢 Generating a file hash:
+<p align="center">
+  <img src="imgs/FileGuardGenHash.png" alt="File Hash Checker Logo" width="450">
+</p>
+
+
+🔍 Verifying file integrity:
+<p align="center">
+  <img src="imgs/FileGuardIntCheck.png" alt="File Hash Checker Logo" width="450">
+</p>
+
+---
+
+### 👤 Author
+
+- Developed by Gaurav N Jain
+
+📧 Contact: [LinkedIn Profile](https://www.linkedin.com/in/gauravnjain/)
