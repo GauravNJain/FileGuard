@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imgs/FileGuardASCII.png" alt="File Hash Checker Logo" width="875">
+  <img src="https://github.com/GauravNJain/FileGuard/blob/main/imgs/FileGuardASCII.png" alt="File Hash Checker Logo" width="875">
 </p>
 
 # 🔐 FileGuard - File Hash Checker
@@ -53,13 +53,13 @@ Here are some screenshots of the tool in action:
 
 🔢 Generating a file hash:
 <p align="center">
-  <img src="imgs/FileGuardGenHash.png" alt="File Hash Checker Logo" width="450">
+  <img src="https://github.com/GauravNJain/FileGuard/blob/main/imgs/FileGuardGenHash.png" alt="File Hash Checker Logo" width="450">
 </p>
 
 
 🔍 Verifying file integrity:
 <p align="center">
-  <img src="imgs/FileGuardIntCheck.png" alt="File Hash Checker Logo" width="450">
+  <img src="https://github.com/GauravNJain/FileGuard/blob/main/imgs/FileGuardIntCheck.png" alt="File Hash Checker Logo" width="450">
 </p>
 
 ---
@@ -69,3 +69,4 @@ Here are some screenshots of the tool in action:
 - Developed by Gaurav N Jain
 
 📧 Contact: [LinkedIn Profile](https://www.linkedin.com/in/gauravnjain/)
+Github Repo: [link](https://github.com/GauravNJain/FileGuard) 
